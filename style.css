@@ -1,0 +1,15 @@
+#active{
+    font-size: 20px;
+    font-family:'Courier New', Courier, monospace;
+    color:green;
+}
+#Recovered{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:green;
+}
+#Deaths{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
